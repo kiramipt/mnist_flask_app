@@ -1,6 +1,5 @@
 import re
 import base64
-import numpy as np
 import tensorflow as tf
 
 from flask import Flask, render_template, request
